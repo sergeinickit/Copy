@@ -1,0 +1,15 @@
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\bin\Debug\net8.0\Seminar6_Arr&Str.exe
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\bin\Debug\net8.0\Seminar6_Arr&Str.deps.json
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\bin\Debug\net8.0\Seminar6_Arr&Str.runtimeconfig.json
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\bin\Debug\net8.0\Seminar6_Arr&Str.dll
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\bin\Debug\net8.0\Seminar6_Arr&Str.pdb
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\obj\Debug\net8.0\Seminar6_Arr&Str.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\obj\Debug\net8.0\Seminar6_Arr&Str.AssemblyInfoInputs.cache
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\obj\Debug\net8.0\Seminar6_Arr&Str.AssemblyInfo.cs
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\obj\Debug\net8.0\Seminar6_Arr&Str.csproj.CoreCompileInputs.cache
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\obj\Debug\net8.0\Seminar6_Arr&Str.sourcelink.json
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\obj\Debug\net8.0\Seminar6_Arr&Str.dll
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\obj\Debug\net8.0\refint\Seminar6_Arr&Str.dll
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\obj\Debug\net8.0\Seminar6_Arr&Str.pdb
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\obj\Debug\net8.0\Seminar6_Arr&Str.genruntimeconfig.cache
+C:\Users\НИКИТИН\Desktop\GitGB2\CopyInGitHub\Copy\Seminar6_Arr&Str\obj\Debug\net8.0\ref\Seminar6_Arr&Str.dll
